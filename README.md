@@ -1,5 +1,3 @@
-# README for ParticlePhysicsAnalysis Repository
-
 ## Overview
 The `ParticlePhysicsAnalysis` repository contains a Python-based machine learning project focusing on the analysis of particle collision data. It utilizes linear regression to explore the relationship between transverse momentum and particle multiplicity, a crucial aspect in high-energy physics studies.
 
